@@ -13,4 +13,5 @@
     <string name="menu_slideshow">Slideshow</string>
 
     <string name="home_second">Home Second</string>
+   <string name="txtCredits"><a href="http://www.google.com">Google</a></string>
 </resources>

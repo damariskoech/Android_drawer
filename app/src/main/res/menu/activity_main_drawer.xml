@@ -21,7 +21,7 @@
 
     <item android:title="Additional">
         <menu>
-            <item android:title="billing" />
+            <item android:title="@string/txtCredits" />
             <item android:title="My account" />
         </menu>
     </item>

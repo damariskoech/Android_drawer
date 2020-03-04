@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment);
         NavigationUI.setupActionBarWithNavController(this, navController, mAppBarConfiguration);
         NavigationUI.setupWithNavController(navigationView, navController);
-        navigationView.setNavigationItemSelectedListener(this);
+       // navigationView.setNavigationItemSelectedListener(this);
     }
 
     @Override
@@ -76,4 +76,10 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         }
         return false;
     }
-}
+
+
+        }
+
+
+
+
